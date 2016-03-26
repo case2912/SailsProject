@@ -33,5 +33,8 @@
     "url": "git://github.com/owner/Project.git"
   },
   "author": "owner",
-  "license": ""
+  "license": "",
+  "devDependencies": {
+    "vogels": "^2.2.0"
+  }
 }
